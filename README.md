@@ -11,8 +11,6 @@ Email Me 👉 ✉️ **istewakhassantewak121@gmail.com** For Collaboration/Proje
 - 📫 **How to reach me:** istewakhassantewak121@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love tech—and tech seems to love me back
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=istewakhassantewak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/istewakhassantewak121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/istewak_hassan_tewak) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@istewak_hassan_tewak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Istewak) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@istewakhassantewak4582) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:istewakhassantewak121@gmail.com) 
