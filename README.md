@@ -1,30 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Istewak%20Hassan%20Tewak&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Hy%20Coders..." alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=istewakhassantewak">
-    <img src="https://komarev.com/ghpvc/?username=istewakhassantewak&label=Profile%20views&color=00FFFF&style=flat-square" alt="istewakhassantewak's profile views" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- A passionate Web Developer || Software Engineer
-- Email Me 👉 ✉️ istewakhassantewak121@gmail.com For Collaboration/Project or Anything Else. 😊😊
-- 🔭 I’m currently working on: Full-stack web development projects
-- 🌱 I’m currently learning: Advanced JavaScript, React, and backend development
-- 👯 I’m looking to collaborate on: Web apps, open-source projects, and innovative ideas
-- 🤔 I’m looking for help with: Scalable system design and backend optimization
-- 💬 Ask me about: Web development, frontend design, and project collaboration
-- 📫 How to reach me: istewakhassantewak121@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love tech—and tech seems to love me back
-
-
 ## 🧠 My Focus Areas
 - WEB DEVELOPMENT
 - UI/UX DESIGN
@@ -44,9 +17,9 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=istewakhassantewak&theme=merko&radius=10" alt="istewakhassantewak's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 
 ## 🛠️ Languages & Tools
@@ -137,4 +110,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
