@@ -17,9 +17,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=istewakhassantewak&theme=merko&radius=10" alt="istewakhassantewak's Activity Graph" />
 </p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
